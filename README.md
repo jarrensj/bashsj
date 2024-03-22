@@ -1,52 +1,67 @@
 # Bash San Jose
 
-Bash is a dogo argentino. 
+Bash is a dogo argentino.
 
 ## Commands
 
 Here is a list of commands that Bash knows. 
 
-- **come here**: *Come here*  
-  A command to have Bash come to you. If he is already close to you and you say this again, he will come even closer and closer to you.
+### `come here`
+- **Description**: Instructs Bash to come to you.
+- **Use Case**: Use this command when Bash is at a distance. If repeated, Bash will continue to close the distance between you and him. Beware repeating this if he is already close to you, as he may boop you coming super, super close to you. 
 
-- **sitz**: *Sit* (Pronounced as "sits")  
-  A command to have Bash sit down.
+### `sitz` (sits)
+- **Description**: Commands Bash to sit down.
+- **Use Case**: Useful for having Bash sit in one spot, either for calm interaction or preparation for another command.
 
-- **platz**: *Lay down* (Pronounced as "plahts")  
-  A command to have Bash lay down. 
+### `platz` (plahts)
+- **Description**: Directs Bash to lay down.
+- **Use Case**: Ideal for getting Bash to settle or lay down in a specific location.
 
-- **fuß**: *Heel (to my left side)* (Pronounced as "fooss")  
-  When you're walking and want Bash to heel or to come/stay close by your left side, this is the command to use. You can also say it if he is already in heel position but you want him to be even closer by your left side. Perfect if there are obstructions or he is walking not as close to your left side as you want.
+### `fuß` (fooss)
+- **Description**: Signals Bash to heel or stay close to your left side.
+- **Use Case**: Essential when walking, especially if you require Bash to stay very close due to obstructions or to maintain a tight formation. If repeated, Bash will close the distance and have a more snug heel.
 
-- **leave it**: *Leave whatever is in his current focus alone*  
-  When you want Bash to leave something alone that he is currently focused on. It might be something he is super sniffing hard on the ground, some item on the ground or that he is approaching, or just anything he is focused on.
+### `leave it`
+- **Description**: Commands Bash to ignore whatever has captured his interest.
+- **Use Case**: Crucial for moments when Bash is focused on something he should not be, such as unknown objects on the ground or distractions during a walk.
 
-- **not your friend**: *It's not time to play*  
-  This is usually used when Bash wants to play with another dog but it's not appropriate at the time or area whether you are walking somewhere or at a coffee shop. When you are walking with Bash and he sees other dogs and wants to play with other dogs but want Bash to leave them alone and keep his current task (whether you are currently walking or standing in line somewhere)
+### `not your friend`
+- **Description**: Indicates it's not an appropriate time to play.
+- **Use Case**: Use when Bash wants to engage with other dogs during walks or in areas where play is not suitable.
 
-- **itadakimasu**: *Eat* (Pronounced as "ee-tah-dah-kee-mahs")  
-  Time for a meal? Use this command to let Bash know that it's okay to start eating. 
+### `itadakimasu` (ee-tah-dah-kee-mahs)
+- **Description**: Lets Bash know it's time to eat.
+- **Use Case**: Use before meals to indicate that Bash is allowed to start eating. 
 
-- **free**: *Free, he can do whatever he wants*   
-  Bash is free to roam, play, or rest as he pleases. 
+### `free`
+- **Description**: Gives Bash permission to roam, play, or rest at his discretion.
+- **Use Case**: Bash is free to roam, play, or rest as he pleases. You can use this when you're walking and he can go explore and be released from his heel.
 
-- **wait**: *Wait*   
-  Bash to stay put where he is or wait for the command to go free. I use this if I want him to stay put somewhere or if I put a treat in front of him. Good for us right when you come inside the house and then telling him to wait (stay put) until I wipe his body and paws clean. 
+### `wait`
+- **Description**: Instructs Bash to stay put or pause in action.
+- **Use Case**: Useful for having Bash wait before continuing his current task, waiting for release to eat a treat, or staying put while being cleaned.
 
-- **go to the room**: *Go to ~~my~~ our room*  
-  Bash will go to the room that we are sleeping in.
+### `go to the room`
+- **Description**: Commands Bash to go to the designated sleeping area.
+- **Use Case**: Helps in directing Bash to a specific room, typically where he and I sleep.
 
-- **go to bed**: *Go to his bed*  
-  Bash will go to his bed.
+### `go to bed`
+- **Description**: Directs Bash to his bed.
+- **Use Case**: Useful for nighttime routines or when you want Bash to settle in his bed.
 
-- **go upstairs**: *Go upstairs*  
-  Bash will go upstairs.
+### `go upstairs`
+- **Description**: Commands Bash to go upstairs.
+- **Use Case**: Useful in multi-level homes where Bash needs to move to a different floor.
 
-- **yip yip**: *Get inside the car*  
-  Bash will go inside the car. 
+### `yip yip`
+- **Description**: Instructs Bash to get inside the car.
+- **Use Case**: Useful for car rides, signaling Bash it's time to hop into the vehicle.
 
-- **bang bang**: *Play dead*  
-  Bash lays down flat on his side. I usually use this when is already in a laying down position of some sort. You can also just make a gun with your hands and pretend to shoot him. 
+### `bang bang`
+- **Description**: Commands Bash to lay on his side.
+- **Use Case**: Can be used as a trick or to calm down even more than his current laying position.
 
-- **ándale**: *Increase pace* (Pronounced as "ahn-DAH-leh.")  
-  Encourage Bash to pick up the pace with this command, useful during walks or when you're in a bit of a hurry.
+### `ándale` (ahn-DAH-leh)
+- **Description**: Encourages Bash to increase his walking speed.
+- **Use Case**: Useful during walks or when in a hurry to move faster. 
