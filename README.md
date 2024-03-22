@@ -6,6 +6,9 @@ Bash is a dogo argentino.
 
 Here is a list of commands that Bash knows. 
 
+- **come here**: *Come here*  
+  A command to have Bash come to you. If he is already close to you and you say this again, he will come even closer and closer to you.
+
 - **sitz**: *Sit* (Pronounced as "sits")  
   A command to have Bash sit down.
 
