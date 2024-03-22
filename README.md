@@ -1,5 +1,7 @@
 # Bash San Jose
 
+Bash is a dogo argentino. 
+
 ## Commands
 
 Here is a list of commands that Bash knows. 
