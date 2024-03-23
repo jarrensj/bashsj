@@ -66,6 +66,10 @@ Here is a list of commands that Bash knows.
 - **Description**: Commands Bash to lay on his side.
 - **Use Case**: Can be used as a trick or to calm down even more than his current laying position.
 
+### `give me some`
+- **Description**: Ask Bash to give you one of his front paws.
+- **Use Case**: Used as a trick. However, be prepared, as the weight of his paw can be quite heavy. 
+
 ### `ándale` (ahn-DAH-leh)
 - **Description**: Encourages Bash to increase his walking speed.
 - **Use Case**: Useful during walks or when in a hurry to move faster. 
