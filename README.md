@@ -10,6 +10,10 @@ Here is a list of commands that Bash knows.
 - **Description**: Instructs Bash to come to you.
 - **Use Case**: Use this command when Bash is at a distance. If repeated, Bash will continue to close the distance between you and him. Beware repeating this if he is already close to you, as he may boop you coming super, super close to you. 
 
+### `look at me`
+- **Description**: Asks Bash to look at you and hold eye contact
+- **Use Case**: Use this command to get Bash's attention. He should not break eye contact until you congratulate him or tell him the "free" command to signal he can relax his attention. 
+
 ### `sitz` (sits)
 - **Description**: Commands Bash to sit down.
 - **Use Case**: Useful for having Bash sit in one spot, either for calm interaction or preparation for another command.
