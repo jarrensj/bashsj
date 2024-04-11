@@ -72,4 +72,8 @@ Here is a list of commands that Bash knows.
 
 ### `ándale` (ahn-DAH-leh)
 - **Description**: Encourages Bash to increase his walking speed.
-- **Use Case**: Useful during walks or when in a hurry to move faster. 
+- **Use Case**: Useful during walks or when in a hurry to move faster.
+
+### `crate`
+- **Description**: Directs Bash to go inside a crate.
+- **Use Case**: 
